@@ -15,9 +15,9 @@ export default defineConfig({
                 cleanupOutdatedCaches: true
             },
             manifest: {
-                "name": "Notcoin",
-                "short_name": "Notcoin",
-                "description": "Notcoin - tap and earn",
+                "name": "Walkcoin",
+                "short_name": "Walkcoin",
+                "description": "Walkcoin - walk to earn",
                 "start_url": "./",
                 "icons": [
                     {
